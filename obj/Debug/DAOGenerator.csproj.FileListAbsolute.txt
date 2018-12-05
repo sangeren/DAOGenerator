@@ -1,0 +1,9 @@
+D:\git\generate copo\daogenerator\sourceCode\sourceCode\DAOGenerator\bin\Debug\DAOGenerator.exe.config
+D:\git\generate copo\daogenerator\sourceCode\sourceCode\DAOGenerator\bin\Debug\Mapping.dat
+D:\git\generate copo\daogenerator\sourceCode\sourceCode\DAOGenerator\bin\Debug\DAOGenerator.exe
+D:\git\generate copo\daogenerator\sourceCode\sourceCode\DAOGenerator\bin\Debug\DAOGenerator.pdb
+D:\git\generate copo\daogenerator\sourceCode\sourceCode\DAOGenerator\bin\Debug\MySql.Data.dll
+D:\git\generate copo\daogenerator\sourceCode\sourceCode\DAOGenerator\bin\Debug\MySql.Data.xml
+D:\git\generate copo\daogenerator\sourceCode\sourceCode\DAOGenerator\obj\Debug\DAOGenerator.csprojResolveAssemblyReference.cache
+D:\git\generate copo\daogenerator\sourceCode\sourceCode\DAOGenerator\obj\Debug\DAOGenerator.exe
+D:\git\generate copo\daogenerator\sourceCode\sourceCode\DAOGenerator\obj\Debug\DAOGenerator.pdb
